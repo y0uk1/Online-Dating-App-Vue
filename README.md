@@ -1,11 +1,15 @@
-# online-dating-app
+# Online Dating App
+This is an Online Dating App (Vue Course) in Recursion Project.
 
-# Atomic Design
-https://qiita.com/d2cid-kimura/items/4aee84da42131f40b808
-https://zenn.dev/sterashima78/articles/0cf4bb52112c7b
+# How to Use
+https://y0uk1.github.io/Online-Dating-App-Vue/
 
-This template should help get you started developing with Vue 3 in Vite.
+Please find your favorite person with this app! In this app, people are created with [RANDOM USER GENERATOR](https://randomuser.me/). You can see the details of people and chat with them. The reply to your message is a random word created by this [API](https://random-word-api.herokuapp.com/word).
 
+# Demo
+![Demo Movie](/img/demo.gif)
+
+# Start Vue Project
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
